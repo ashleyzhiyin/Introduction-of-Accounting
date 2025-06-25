@@ -81,30 +81,6 @@ Stockholders' Equity（股东权益）
 |**股东权益**|普通股、留存收益、库存股|
 
 
-### Cash flow 总数
-![[Cashflow 20250607114608.png]]
-
-Reports cash transactions over a period of time
-- **Operating Activities**
-	- Transactions related to the provision of goods or services and other normal business activities
-- **Investing Activities**
-	- Transactions related to the acquisition or disposal of long-lived productive assets
-- **Financing Activities**
-	- Transactions related to owners or creditors
-### Income 统一单位
-![[Income 20250607115853.png]]
-统一单位到一个月
-- Net Income (or Earnings or Net Profit)= Revenues-Expenses
-	=> DOES NOT EQUAL CHANGE IN CASH!!!
-depreciation折旧：
-- a reduction in the value of an asset over time
-
-### Balance Sheet  减折旧
-- Reports the financial position (resources and obligations) on a specific date
-![[Balance image 20250607122717.png]]
-
-
-
 ## 二、Income Statement
 - 按照劳动时间计算
 - 权责发生制（Accrual Accounting），只在现金实际收付时确认收入和支出。
